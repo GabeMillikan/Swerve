@@ -15,13 +15,13 @@ ControlBoardHeight = 100 #in pixels
 VectorDrawScale = 15 #vector magnitude multiplier
 
 TranslationVectorColor = (255,0,0) #blue,green,red
-TranslationVectorThickness = 1 # pixels (>0)
+TranslationVectorThickness = 2 # pixels (>0)
 
 RotationVectorColor = (0,0,255) #blue,green,red
-RotationVectorThickness = 1 # pixels (>0)
+RotationVectorThickness = 2 # pixels (>0)
 
 FinalVectorColor = (255,255,255) #blue,green,red
-FinalVectorThickness = 1 # pixels (>0)
+FinalVectorThickness = 2 # pixels (>0)
 
 WheelGrid = (2,2)#add more wheels (vector field?)
 
